@@ -1,6 +1,6 @@
 [
-	{"id": "pirata", "name": "Pirata Rock"},
-	{"id": "festardor", "name": "Festardor"},
-	{"id": "festivern", "name": "Festivern"},
-	{"id": "viñarock", "name": "Viñarock"}
+	{"id": "pirata_rock", "name": "Pirata Rock", "img_type": "jpg"},
+	{"id": "festardor", "name": "Festardor", "img_type": "png"},
+	{"id": "festivern", "name": "Festivern", "img_type": "png"},
+	{"id": "vinarock", "name": "Viñarock", "img_type": "jpg"}
 ]
