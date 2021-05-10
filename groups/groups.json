@@ -1,0 +1,38 @@
+[
+  {
+    "id": "reaccio",
+    "name": "Reacció",
+    "logo_type": "",
+    "description": ""
+  },
+  {
+    "id": "els_catarres",
+    "name": "Els Catarres",
+    "logo_type": "jpeg",
+    "description": ""
+  },
+  {
+    "id": "los_de_marras",
+    "name": "Los de Marras",
+    "logo_type": "jpg",
+    "description": ""
+  },
+  {
+    "id": "la_inquisicio",
+    "name": "La Inquisició",
+    "logo_type": "png",
+    "description": ""
+  },
+  {
+    "id": "mafalda",
+    "name": "Mafalda",
+    "logo_type": "",
+    "description": ""
+  },
+  {
+    "id": "desakato",
+    "name": "Desakato",
+    "logo_type": "",
+    "description": ""
+  }
+]
