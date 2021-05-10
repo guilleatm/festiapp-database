@@ -1,6 +1,38 @@
 [
-	{"id": "pirata_rock", "name": "Pirata Rock", "img_type": "jpg"},
-	{"id": "festardor", "name": "Festardor", "img_type": "png"},
-	{"id": "festivern", "name": "Festivern", "img_type": "png"},
-	{"id": "vinarock", "name": "Viñarock", "img_type": "jpg"}
+  {
+    "id": "pirata_rock",
+    "name": "Pirata Rock",
+    "from": "",
+    "to": "",
+    "url": "",
+    "logo_type": "jpg",
+    "groups": ["reaccio", "los_de_marras", "els_catarres"]
+  },
+  {
+    "id": "festardor",
+    "name": "Festardor",
+    "from": "",
+    "to": "",
+    "url": "",
+    "logo_type": "png",
+    "groups": ["desakato", "la_inquisicio"]
+  },
+  {
+    "id": "festivern",
+    "name": "Festivern",
+    "from": "",
+    "to": "",
+    "url": "",
+    "logo_type": "png",
+    "groups": ["reaccio", "mafalda"]
+  },
+  {
+    "id": "vinarock",
+    "name": "Viñarock",
+    "from": "",
+    "to": "",
+    "url": "",
+    "logo_type": "jpg",
+    "groups": ["la_inquisicio", "els_catarres"]
+  }
 ]
