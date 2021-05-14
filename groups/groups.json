@@ -3,36 +3,42 @@
     "id": "reaccio",
     "name": "Reacció",
     "logo_type": "",
-    "description": ""
+    "description": "",
+    "song_uri": "spotify:track:4agt1bkSCnLY45mRgGrGFc"
   },
   {
     "id": "els_catarres",
     "name": "Els Catarres",
     "logo_type": "jpeg",
-    "description": ""
+    "description": "",
+    "song_uri": "spotify:track:4CYNEVQgaUr5j9KM5cGukz"
   },
   {
     "id": "los_de_marras",
     "name": "Los de Marras",
     "logo_type": "jpg",
-    "description": ""
+    "description": "",
+    "song_uri": "spotify:track:2T10x4MbTg5JXnUXojCWAD"
   },
   {
     "id": "la_inquisicio",
     "name": "La Inquisició",
     "logo_type": "png",
-    "description": ""
+    "description": "",
+    "song_uri": ""
   },
   {
     "id": "mafalda",
     "name": "Mafalda",
     "logo_type": "",
-    "description": ""
+    "description": "",
+    "song_uri": "spotify:track:28dErH6zwfZFzmzSzrbfZk"
   },
   {
     "id": "desakato",
     "name": "Desakato",
     "logo_type": "",
-    "description": ""
+    "description": "",
+    "song_uri": "spotify:track:096dO4loq3XcU3TBDCjvfW"
   }
 ]
