@@ -4,41 +4,47 @@
     "name": "Reacció",
     "logo_type": "",
     "description": "",
-    "song_uri": "spotify:track:4agt1bkSCnLY45mRgGrGFc"
+    "song_uri": "spotify:track:4agt1bkSCnLY45mRgGrGFc",
+    "url": "https://es.reacciogrup.com/"
   },
   {
     "id": "els_catarres",
     "name": "Els Catarres",
     "logo_type": "jpeg",
     "description": "",
-    "song_uri": "spotify:track:4CYNEVQgaUr5j9KM5cGukz"
+    "song_uri": "spotify:track:4CYNEVQgaUr5j9KM5cGukz",
+    "url": "http://www.elscatarres.cat/"
   },
   {
     "id": "los_de_marras",
     "name": "Los de Marras",
     "logo_type": "jpg",
     "description": "",
-    "song_uri": "spotify:track:2T10x4MbTg5JXnUXojCWAD"
+    "song_uri": "spotify:track:2T10x4MbTg5JXnUXojCWAD",
+    "url": ""
   },
   {
     "id": "la_inquisicio",
     "name": "La Inquisició",
     "logo_type": "png",
     "description": "",
-    "song_uri": ""
+    "song_uri": "",
+    "url": ""
   },
   {
     "id": "mafalda",
     "name": "Mafalda",
     "logo_type": "",
     "description": "",
-    "song_uri": "spotify:track:28dErH6zwfZFzmzSzrbfZk"
+    "song_uri": "spotify:track:28dErH6zwfZFzmzSzrbfZk",
+    "url": ""
   },
   {
     "id": "desakato",
     "name": "Desakato",
     "logo_type": "",
     "description": "",
-    "song_uri": "spotify:track:096dO4loq3XcU3TBDCjvfW"
+    "song_uri": "spotify:track:096dO4loq3XcU3TBDCjvfW",
+    "url": ""
   }
 ]
