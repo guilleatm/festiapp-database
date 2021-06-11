@@ -6,7 +6,8 @@
     "duration": 4,
     "logo_type": "jpg",
     "groups": "reaccio los_de_marras els_catarres",
-    "url": "https://piratafestival.com/"
+    "url": "https://piratafestival.com/",
+    "place": "Gandia"
   },
   {
     "id": "festardor",
@@ -15,7 +16,8 @@
     "duration": "",
     "logo_type": "png",
     "groups": "desakato la_inquisicio",
-    "url": "https://festivalfestardor.com/"
+    "url": "https://festivalfestardor.com/",
+    "place": "Sagunt"
   },
   {
     "id": "festivern",
@@ -24,7 +26,8 @@
     "duration": "",
     "logo_type": "png",
     "groups": "reaccio mafalda",
-    "url": ""
+    "url": "",
+    "place": "Tabernes de la valldigna"
   },
   {
     "id": "vinarock",
@@ -33,6 +36,7 @@
     "duration": 3,
     "logo_type": "jpg",
     "groups": "la_inquisicio els_catarres",
-    "url": "https://www.vina-rock.com/"
+    "url": "https://www.vina-rock.com/",
+    "place": "Villarobledo"
   }
 ]
