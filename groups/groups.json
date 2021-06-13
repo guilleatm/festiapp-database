@@ -2,7 +2,7 @@
   {
     "id": "reaccio",
     "name": "Reacció",
-    "logo_type": "",
+    "logo_type": "png",
     "description": "",
     "song_uri": "spotify:track:4agt1bkSCnLY45mRgGrGFc",
     "url": "https://es.reacciogrup.com/"
@@ -21,7 +21,7 @@
     "logo_type": "jpg",
     "description": "",
     "song_uri": "spotify:track:2T10x4MbTg5JXnUXojCWAD",
-    "url": ""
+    "url": "https://www.losdemarras.com/"
   },
   {
     "id": "la_inquisicio",
@@ -34,17 +34,17 @@
   {
     "id": "mafalda",
     "name": "Mafalda",
-    "logo_type": "",
+    "logo_type": "png",
     "description": "",
     "song_uri": "spotify:track:28dErH6zwfZFzmzSzrbfZk",
-    "url": ""
+    "url": "https://www.mafaldagrupo.com/"
   },
   {
     "id": "desakato",
     "name": "Desakato",
-    "logo_type": "",
+    "logo_type": "webp",
     "description": "",
     "song_uri": "spotify:track:096dO4loq3XcU3TBDCjvfW",
-    "url": ""
+    "url": "https://desakato.es/"
   }
 ]
