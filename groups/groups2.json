@@ -420,21 +420,6 @@
     "description": ""
   },
   {
-    "id": "atupa",
-    "name": "Atupa",
-    "type": "artist",
-    "followers": 10054,
-    "popularity": 24,
-    "genres": "musica_catalana rap_catala trap_catala",
-    "sid": "01o583ZRPv5Q8UTvpMT1QK",
-    "uri": "spotify:artist:01o583ZRPv5Q8UTvpMT1QK",
-    "url": "",
-    "external_urls": "https://open.spotify.com/artist/01o583ZRPv5Q8UTvpMT1QK",
-    "href": "https://api.spotify.com/v1/artists/01o583ZRPv5Q8UTvpMT1QK",
-    "images": "https://i.scdn.co/image/ab6761610000e5eb847a8134e34d7537f2638885 640 640 https://i.scdn.co/image/ab67616100005174847a8134e34d7537f2638885 320 320 https://i.scdn.co/image/ab6761610000f178847a8134e34d7537f2638885 160 160",
-    "description": ""
-  },
-  {
     "id": "dia_sexto",
     "name": "Día Sexto",
     "type": "artist",
