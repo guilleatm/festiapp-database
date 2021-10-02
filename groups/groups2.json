@@ -675,21 +675,6 @@
     "description": ""
   },
   {
-    "id": "marea",
-    "name": "Marea",
-    "type": "artist",
-    "followers": 471511,
-    "popularity": 60,
-    "genres": "punk_urbano spanish_pop spanish_punk",
-    "sid": "5EBH204cwRkvAWknwTAjCQ",
-    "uri": "spotify:artist:5EBH204cwRkvAWknwTAjCQ",
-    "url": "",
-    "external_urls": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ",
-    "href": "https://api.spotify.com/v1/artists/5EBH204cwRkvAWknwTAjCQ",
-    "images": "https://i.scdn.co/image/ab6761610000e5eb872524618187521a6d0d71f9 640 640 https://i.scdn.co/image/ab67616100005174872524618187521a6d0d71f9 320 320 https://i.scdn.co/image/ab6761610000f178872524618187521a6d0d71f9 160 160",
-    "description": ""
-  },
-  {
     "id": "sfdk",
     "name": "SFDK",
     "type": "artist",
@@ -702,21 +687,6 @@
     "external_urls": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ",
     "href": "https://api.spotify.com/v1/artists/56n1NeXsTOOxjX3Z4lVMTJ",
     "images": "https://i.scdn.co/image/ab6761610000e5eb3ab473e158510f75261428bf 640 640 https://i.scdn.co/image/ab676161000051743ab473e158510f75261428bf 320 320 https://i.scdn.co/image/ab6761610000f1783ab473e158510f75261428bf 160 160",
-    "description": ""
-  },
-  {
-    "id": "talco",
-    "name": "Talco",
-    "type": "artist",
-    "followers": 82616,
-    "popularity": 46,
-    "genres": "indie_veneto italian_ska ska_espanol",
-    "sid": "443KHruraFfm6t1cK8SJCc",
-    "uri": "spotify:artist:443KHruraFfm6t1cK8SJCc",
-    "url": "",
-    "external_urls": "https://open.spotify.com/artist/443KHruraFfm6t1cK8SJCc",
-    "href": "https://api.spotify.com/v1/artists/443KHruraFfm6t1cK8SJCc",
-    "images": "https://i.scdn.co/image/ab6761610000e5ebc67d5122dd75192fe8d8eac8 640 640 https://i.scdn.co/image/ab67616100005174c67d5122dd75192fe8d8eac8 320 320 https://i.scdn.co/image/ab6761610000f178c67d5122dd75192fe8d8eac8 160 160",
     "description": ""
   },
   {
