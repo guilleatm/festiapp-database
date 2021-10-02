@@ -795,21 +795,6 @@
     "description": ""
   },
   {
-    "id": "poncho_k",
-    "name": "Poncho K",
-    "type": "artist",
-    "followers": 53750,
-    "popularity": 49,
-    "genres": "punk_urbano spanish_punk",
-    "sid": "4fi2id2V1djZTVkPBLwaUz",
-    "uri": "spotify:artist:4fi2id2V1djZTVkPBLwaUz",
-    "url": "",
-    "external_urls": "https://open.spotify.com/artist/4fi2id2V1djZTVkPBLwaUz",
-    "href": "https://api.spotify.com/v1/artists/4fi2id2V1djZTVkPBLwaUz",
-    "images": "https://i.scdn.co/image/ab6761610000e5ebb82e4ea63a48109a8b58bd3b 640 640 https://i.scdn.co/image/ab67616100005174b82e4ea63a48109a8b58bd3b 320 320 https://i.scdn.co/image/ab6761610000f178b82e4ea63a48109a8b58bd3b 160 160",
-    "description": ""
-  },
-  {
     "id": "panellet",
     "name": "Panellet",
     "type": "artist",
