@@ -119,11 +119,16 @@ button:focus {
 }
 
 ul,
-li,
 ol {
      margin: 0px;
      padding: 0px;
      list-style: none;
+}
+
+li {
+	 list-style: inherit;
+	 margin: inherit;
+     padding: inherit;
 }
 
 p {
@@ -134,7 +139,7 @@ p {
 }
 
 a {
-     color: #222222;
+     color: #ceab06;
      text-decoration: none;
      outline: none !important;
 }
@@ -420,6 +425,42 @@ button {
      align-items: center;
      flex-wrap: wrap;
 }
+
+
+.def {
+     background: #232323;
+     padding: 0% 10% 0% 10%;
+	 color: #fff;
+     padding-bottom: 10px;
+	 text-align: center;
+
+     font-size: 17px;
+
+}
+
+.def hr{
+	 border-top: 1px solid #ceab06;
+	 width: 70%;
+
+}
+
+.def h2 {
+     color: #fff;
+     text-transform: uppercase;
+     font-size: 30px;
+     line-height: 30px;
+     font-weight: 500;
+     padding: 0;
+     padding-top: 35px;
+}
+
+.def p {
+     color: #fff;
+     font-size: 17px;
+     line-height: 28px;
+     padding: 10px 0;
+}
+
 
 
 /** we_do section **/
