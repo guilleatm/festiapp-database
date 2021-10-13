@@ -1,3 +1,3 @@
 # festiapp-database
 
-[Festiweb](https://guilleatm.github.io/festiapp-database/docs/)
+Visit [festiweb](https://guilleatm.github.io/festiapp-database/docs/) for more info.
