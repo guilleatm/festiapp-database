@@ -60,7 +60,7 @@
 				requereix que els usuaris segueixquen les xarxes de l'event en qüestió.
 			</p>
 			<p>
-				Açò a banda de ser un inconvenient per a tots, limita als festivals menys coneguts o amb menys pressupost.
+				Açò, a banda de ser un inconvenient per a tots, limita als festivals menys coneguts o amb menys pressupost.
 				A banda, tots sabem que, com a usuari, és un incordi haver de seguir a doscents comptes per a estar a la última.
 			</p>
 			<p>
@@ -71,15 +71,63 @@
 			<p>
 				Per a aconseguir açò seràn necessàries dues coses, informació sobre els festivals i informació sobre els grups.
 				En quant a la informació sobre els grups, podem aconseguirla gràcies a l'API de Spotify (<a href="https://developer.spotify.com/">Spotify for Developers</a>)
-				Amb aquesta, no soles tenim noms, logos i géneres dels grups, sino que podem reproduïr música desde la pròpia festiapp si tenim instal.lat Spotify (siga premium o no)
+				Amb aquesta, no sols tenim noms, logos i géneres dels grups, també podrem reproduïr música desde la pròpia festiapp si tenim instal.lat Spotify (siga premium o no)
 			</p>
 			<p>
-				Queda per tant la informació dels festivals, per anar omplint la base de dades, serà necessària la comunicació per ambdues bandes.
+				Queda per tant la informació dels festivals, per anar omplint la base de dades, serà necessària la comunicació per ambdues parts.
 
 				A banda, és important tot feedback que pugam recollir per fer millor l'aplicació, per aquest mateix motiu, volem contactar amb alguns festivals de prova
-				a la fase de desenvolupament per a que ens diguen quins camps són necessaris què voldrien mostrar a la vista del festi.
+				a la fase de desenvolupament per a que ens diguen quins camps són necessaris i què voldrien mostrar a la vista del festi.
 
 				Per aquest mateix motiu, si vols participar, o simplement provar l'app, posa't en contacte amb nosaltres enviant un correu a guitmcode@gmail.com
+			</p>
+
+			<p>Aquests són els camps que estem guardant a la base de dades actualment:</p>
+			
+
+			<table>
+				<tr>
+					<th>Camp</th>
+					<th>Descripció</th>
+					<th>Exemple</th>
+				</tr>
+
+				<tr>
+					<td>Nom</td>
+					<td>Nom del festival</td>
+					<td>Pirata Rock</td>
+				</tr>
+				<tr>
+					<td>Data</td>
+					<td>Data de inici del festival / event</td>
+					<td>15-07-2022</td>
+				</tr>
+				<tr>
+					<td>Duració</td>
+					<td>Duració en díes del festival (si es un event d'un sol día serà 1)</td>
+					<td>3</td>
+				</tr>
+				<tr>
+					<td>Web</td>
+					<td>URL si s'en tè del lloc web</td>
+					<td>https://piratafestival.com</td>
+				</tr>
+				<tr>
+					<td>Lloc</td>
+					<td>Lloc de celebració (en un futur pot ser hi haja altre camp amb coordenades per a l'ubicació exacta)</td>
+					<td>Gandia</td>
+				</tr>
+				<tr>
+					<td>Grups</td>
+					<td>Llista de grups que actuen (més info sobre la llista de grups al posar-se en contacte)</td>
+					<td>reaccio los_de_marras els_catarres</td>
+				</tr>
+			</table>
+			<br />
+
+			<p>
+				Per ara aquests són alguns dels camps més bàsics que ja estàn implementats i a la base de dades, òbviament, s'aniràn afegint depenent també de les
+				necessitats dels festivals.
 			</p>
 
 		</div>

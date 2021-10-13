@@ -461,7 +461,25 @@ button {
      padding: 10px 0;
 }
 
+.def table {
+	margin-left: auto;
+	margin-right: auto;
+}
 
+
+.def th {
+	background-color: #61582e;
+}
+
+.def td, th {
+  border: 1px solid #8b8b8b;
+  /* text-align: left; */
+  padding: 10px;
+}
+
+.def tr:nth-child(even) {
+  background-color: #303030;
+}
 
 /** we_do section **/
 
