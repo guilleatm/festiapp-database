@@ -1,0 +1,13 @@
+{
+"id": "talco",
+"name": "Talco",
+"type": "artist",
+"followers": 83044,
+"popularity": 47,
+"genres": "indie_veneto italian_ska ska_espanol",
+"sid": "443KHruraFfm6t1cK8SJCc",
+"uri": "spotify:artist:443KHruraFfm6t1cK8SJCc",
+"external_urls": "https://open.spotify.com/artist/443KHruraFfm6t1cK8SJCc",
+"href": "https://api.spotify.com/v1/artists/443KHruraFfm6t1cK8SJCc",
+"images": "https://i.scdn.co/image/ab6761610000e5ebc67d5122dd75192fe8d8eac8 640 640 https://i.scdn.co/image/ab67616100005174c67d5122dd75192fe8d8eac8 320 320 https://i.scdn.co/image/ab6761610000f178c67d5122dd75192fe8d8eac8 160 160"
+}

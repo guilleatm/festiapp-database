@@ -1,0 +1,13 @@
+{
+"id": "dakidarria",
+"name": "Dakidarria",
+"type": "artist",
+"followers": 13459,
+"popularity": 32,
+"genres": "galician_rock punk_galego spanish_punk",
+"sid": "2t4UlDofSDxweW751EVw9d",
+"uri": "spotify:artist:2t4UlDofSDxweW751EVw9d",
+"external_urls": "https://open.spotify.com/artist/2t4UlDofSDxweW751EVw9d",
+"href": "https://api.spotify.com/v1/artists/2t4UlDofSDxweW751EVw9d",
+"images": "https://i.scdn.co/image/ab6761610000e5ebde47f7e8e5a610d3a8321b28 640 640 https://i.scdn.co/image/ab67616100005174de47f7e8e5a610d3a8321b28 320 320 https://i.scdn.co/image/ab6761610000f178de47f7e8e5a610d3a8321b28 160 160"
+}

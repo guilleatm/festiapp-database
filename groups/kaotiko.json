@@ -1,0 +1,13 @@
+{
+"id": "kaotiko",
+"name": "Kaotiko",
+"type": "artist",
+"followers": 71076,
+"popularity": 47,
+"genres": "euskal_rock punk_urbano spanish_punk",
+"sid": "1XwQSgy1ZYGHw8ZryGbT2S",
+"uri": "spotify:artist:1XwQSgy1ZYGHw8ZryGbT2S",
+"external_urls": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S",
+"href": "https://api.spotify.com/v1/artists/1XwQSgy1ZYGHw8ZryGbT2S",
+"images": "https://i.scdn.co/image/ab6761610000e5eb69d3ccce8261239dcc50282a 640 640 https://i.scdn.co/image/ab6761610000517469d3ccce8261239dcc50282a 320 320 https://i.scdn.co/image/ab6761610000f17869d3ccce8261239dcc50282a 160 160"
+}

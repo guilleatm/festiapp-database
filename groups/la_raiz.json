@@ -1,0 +1,13 @@
+{
+"id": "la_raiz",
+"name": "La Ra\u00edz",
+"type": "artist",
+"followers": 239260,
+"popularity": 55,
+"genres": "musica_catalana ska_espanol spanish_punk",
+"sid": "036IY6CphXdsPiqIXdqvCP",
+"uri": "spotify:artist:036IY6CphXdsPiqIXdqvCP",
+"external_urls": "https://open.spotify.com/artist/036IY6CphXdsPiqIXdqvCP",
+"href": "https://api.spotify.com/v1/artists/036IY6CphXdsPiqIXdqvCP",
+"images": "https://i.scdn.co/image/ab6761610000e5eb343017ed0105c69bccaa1840 640 640 https://i.scdn.co/image/ab67616100005174343017ed0105c69bccaa1840 320 320 https://i.scdn.co/image/ab6761610000f178343017ed0105c69bccaa1840 160 160"
+}

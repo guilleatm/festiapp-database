@@ -1,0 +1,13 @@
+{
+"id": "els_catarres",
+"name": "Els Catarres",
+"type": "artist",
+"followers": 117166,
+"popularity": 47,
+"genres": "cantautor indie_catala musica_catalana rock_catala",
+"sid": "0InCPtI0kadS7s3cZrcbbY",
+"uri": "spotify:artist:0InCPtI0kadS7s3cZrcbbY",
+"external_urls": "https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY",
+"href": "https://api.spotify.com/v1/artists/0InCPtI0kadS7s3cZrcbbY",
+"images": "https://i.scdn.co/image/ab6761610000e5ebfa6401d2befae6a776d1b8fe 640 640 https://i.scdn.co/image/ab67616100005174fa6401d2befae6a776d1b8fe 320 320 https://i.scdn.co/image/ab6761610000f178fa6401d2befae6a776d1b8fe 160 160"
+}

@@ -1,0 +1,13 @@
+{
+"id": "marea",
+"name": "Marea",
+"type": "artist",
+"followers": 476219,
+"popularity": 62,
+"genres": "punk_urbano spanish_pop spanish_punk",
+"sid": "5EBH204cwRkvAWknwTAjCQ",
+"uri": "spotify:artist:5EBH204cwRkvAWknwTAjCQ",
+"external_urls": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ",
+"href": "https://api.spotify.com/v1/artists/5EBH204cwRkvAWknwTAjCQ",
+"images": "https://i.scdn.co/image/ab6761610000e5eb872524618187521a6d0d71f9 640 640 https://i.scdn.co/image/ab67616100005174872524618187521a6d0d71f9 320 320 https://i.scdn.co/image/ab6761610000f178872524618187521a6d0d71f9 160 160"
+}

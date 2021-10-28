@@ -1,0 +1,13 @@
+{
+"id": "buhos",
+"name": "Buhos",
+"type": "artist",
+"followers": 64963,
+"popularity": 47,
+"genres": "indie_catala musica_catalana rock_catala",
+"sid": "7BdgXLhynRQk78pKkhAsAR",
+"uri": "spotify:artist:7BdgXLhynRQk78pKkhAsAR",
+"external_urls": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR",
+"href": "https://api.spotify.com/v1/artists/7BdgXLhynRQk78pKkhAsAR",
+"images": "https://i.scdn.co/image/ab6761610000e5ebaec6e29276bfcce024847d47 640 640 https://i.scdn.co/image/ab67616100005174aec6e29276bfcce024847d47 320 320 https://i.scdn.co/image/ab6761610000f178aec6e29276bfcce024847d47 160 160"
+}

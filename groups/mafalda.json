@@ -1,0 +1,13 @@
+{
+"id": "mafalda",
+"name": "mafalda",
+"type": "artist",
+"followers": 37025,
+"popularity": 45,
+"genres": "musica_catalana punk_catala",
+"sid": "7zyZ33s4LRFS3S0r7eKBZs",
+"uri": "spotify:artist:7zyZ33s4LRFS3S0r7eKBZs",
+"external_urls": "https://open.spotify.com/artist/7zyZ33s4LRFS3S0r7eKBZs",
+"href": "https://api.spotify.com/v1/artists/7zyZ33s4LRFS3S0r7eKBZs",
+"images": "https://i.scdn.co/image/ab6761610000e5eb8ee4a02a6a368226a1011b05 640 640 https://i.scdn.co/image/ab676161000051748ee4a02a6a368226a1011b05 320 320 https://i.scdn.co/image/ab6761610000f1788ee4a02a6a368226a1011b05 160 160"
+}
