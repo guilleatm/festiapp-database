@@ -1,0 +1,13 @@
+{
+"id": "exceso",
+"name": "Exceso",
+"type": "artist",
+"followers": 9745,
+"popularity": 33,
+"genres": "punk_urbano",
+"sid": "1sfJ1IyMNdbvpe8WzuqQ3g",
+"uri": "spotify:artist:1sfJ1IyMNdbvpe8WzuqQ3g",
+"external_urls": "https://open.spotify.com/artist/1sfJ1IyMNdbvpe8WzuqQ3g",
+"href": "https://api.spotify.com/v1/artists/1sfJ1IyMNdbvpe8WzuqQ3g",
+"images": "https://i.scdn.co/image/ab6761610000e5eb5743d92a5b4e36f0ace98bb6 640 640 https://i.scdn.co/image/ab676161000051745743d92a5b4e36f0ace98bb6 320 320 https://i.scdn.co/image/ab6761610000f1785743d92a5b4e36f0ace98bb6 160 160"
+}

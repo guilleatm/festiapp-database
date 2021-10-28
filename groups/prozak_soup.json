@@ -1,0 +1,13 @@
+{
+"id": "prozak_soup",
+"name": "Prozak Soup",
+"type": "artist",
+"followers": 2815,
+"popularity": 18,
+"genres": "indie_valenciana",
+"sid": "6EF4cCHpvhR4aPEPVG7xgc",
+"uri": "spotify:artist:6EF4cCHpvhR4aPEPVG7xgc",
+"external_urls": "https://open.spotify.com/artist/6EF4cCHpvhR4aPEPVG7xgc",
+"href": "https://api.spotify.com/v1/artists/6EF4cCHpvhR4aPEPVG7xgc",
+"images": "https://i.scdn.co/image/ab6761610000e5eb408552f58f461020dba740d9 640 640 https://i.scdn.co/image/ab67616100005174408552f58f461020dba740d9 320 320 https://i.scdn.co/image/ab6761610000f178408552f58f461020dba740d9 160 160"
+}

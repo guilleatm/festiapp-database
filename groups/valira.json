@@ -1,0 +1,13 @@
+{
+"id": "valira",
+"name": "Valira",
+"type": "artist",
+"followers": 13929,
+"popularity": 40,
+"genres": "indie_valenciana musica_catalana",
+"sid": "7xzBMbJO4ooYoW2mJxX09u",
+"uri": "spotify:artist:7xzBMbJO4ooYoW2mJxX09u",
+"external_urls": "https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u",
+"href": "https://api.spotify.com/v1/artists/7xzBMbJO4ooYoW2mJxX09u",
+"images": "https://i.scdn.co/image/ab6761610000e5eba9e50731f1def05e94967fdc 640 640 https://i.scdn.co/image/ab67616100005174a9e50731f1def05e94967fdc 320 320 https://i.scdn.co/image/ab6761610000f178a9e50731f1def05e94967fdc 160 160"
+}

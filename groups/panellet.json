@@ -1,0 +1,13 @@
+{
+"id": "panellet",
+"name": "Panellet",
+"type": "artist",
+"followers": 817,
+"popularity": 11,
+"genres": "punk_catala ska_catala",
+"sid": "15YJDk8XbQZqg6r5jvKCBd",
+"uri": "spotify:artist:15YJDk8XbQZqg6r5jvKCBd",
+"external_urls": "https://open.spotify.com/artist/15YJDk8XbQZqg6r5jvKCBd",
+"href": "https://api.spotify.com/v1/artists/15YJDk8XbQZqg6r5jvKCBd",
+"images": "https://i.scdn.co/image/ab67616d0000b27378da5d1dd5632d28d4033503 640 640 https://i.scdn.co/image/ab67616d00001e0278da5d1dd5632d28d4033503 300 300 https://i.scdn.co/image/ab67616d0000485178da5d1dd5632d28d4033503 64 64"
+}

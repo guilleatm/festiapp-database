@@ -1,0 +1,13 @@
+{
+"id": "funkiwis",
+"name": "Funkiwis",
+"type": "artist",
+"followers": 9221,
+"popularity": 31,
+"genres": "ska_espanol",
+"sid": "6TdZJnaxQzRq8ujSEjkjYa",
+"uri": "spotify:artist:6TdZJnaxQzRq8ujSEjkjYa",
+"external_urls": "https://open.spotify.com/artist/6TdZJnaxQzRq8ujSEjkjYa",
+"href": "https://api.spotify.com/v1/artists/6TdZJnaxQzRq8ujSEjkjYa",
+"images": "https://i.scdn.co/image/ab6761610000e5ebe26b60fddb58a40cb05d4c0a 640 640 https://i.scdn.co/image/ab67616100005174e26b60fddb58a40cb05d4c0a 320 320 https://i.scdn.co/image/ab6761610000f178e26b60fddb58a40cb05d4c0a 160 160"
+}

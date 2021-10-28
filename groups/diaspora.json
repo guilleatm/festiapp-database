@@ -1,0 +1,13 @@
+{
+"id": "diaspora",
+"name": "DI\u00c0SPORA",
+"type": "artist",
+"followers": 281,
+"popularity": 3,
+"genres": "indie_valenciana",
+"sid": "3GXPx4CuJg37yvXqkEJQN8",
+"uri": "spotify:artist:3GXPx4CuJg37yvXqkEJQN8",
+"external_urls": "https://open.spotify.com/artist/3GXPx4CuJg37yvXqkEJQN8",
+"href": "https://api.spotify.com/v1/artists/3GXPx4CuJg37yvXqkEJQN8",
+"images": "https://i.scdn.co/image/ab6761610000e5ebd2b035717695c3ffc3198462 640 640 https://i.scdn.co/image/ab67616100005174d2b035717695c3ffc3198462 320 320 https://i.scdn.co/image/ab6761610000f178d2b035717695c3ffc3198462 160 160"
+}

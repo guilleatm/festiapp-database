@@ -1,0 +1,13 @@
+{
+"id": "ciudad_jara",
+"name": "Ciudad Jara",
+"type": "artist",
+"followers": 31410,
+"popularity": 49,
+"genres": "indie_valenciana musica_catalana",
+"sid": "1x6i8bPtzYRUWm4YVA6K5i",
+"uri": "spotify:artist:1x6i8bPtzYRUWm4YVA6K5i",
+"external_urls": "https://open.spotify.com/artist/1x6i8bPtzYRUWm4YVA6K5i",
+"href": "https://api.spotify.com/v1/artists/1x6i8bPtzYRUWm4YVA6K5i",
+"images": "https://i.scdn.co/image/ab6761610000e5ebf90be4b8441d8f2becb3f5dd 640 640 https://i.scdn.co/image/ab67616100005174f90be4b8441d8f2becb3f5dd 320 320 https://i.scdn.co/image/ab6761610000f178f90be4b8441d8f2becb3f5dd 160 160"
+}

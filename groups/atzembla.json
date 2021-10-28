@@ -1,0 +1,13 @@
+{
+"id": "atzembla",
+"name": "Atzembla",
+"type": "artist",
+"followers": 4922,
+"popularity": 20,
+"genres": "musica_catalana punk_catala ska_catala ska_espanol",
+"sid": "2EIKkmmhu9sQAJ8FJfWXxZ",
+"uri": "spotify:artist:2EIKkmmhu9sQAJ8FJfWXxZ",
+"external_urls": "https://open.spotify.com/artist/2EIKkmmhu9sQAJ8FJfWXxZ",
+"href": "https://api.spotify.com/v1/artists/2EIKkmmhu9sQAJ8FJfWXxZ",
+"images": "https://i.scdn.co/image/ab6761610000e5eb950a465389bf5535b2dddecc 640 640 https://i.scdn.co/image/ab67616100005174950a465389bf5535b2dddecc 320 320 https://i.scdn.co/image/ab6761610000f178950a465389bf5535b2dddecc 160 160"
+}

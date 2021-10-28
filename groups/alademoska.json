@@ -1,0 +1,13 @@
+{
+"id": "alademoska",
+"name": "AlaDeMoska",
+"type": "artist",
+"followers": 7812,
+"popularity": 35,
+"genres": "ska_espanol",
+"sid": "1ekttoTgjC4AhaG3r4eaMT",
+"uri": "spotify:artist:1ekttoTgjC4AhaG3r4eaMT",
+"external_urls": "https://open.spotify.com/artist/1ekttoTgjC4AhaG3r4eaMT",
+"href": "https://api.spotify.com/v1/artists/1ekttoTgjC4AhaG3r4eaMT",
+"images": "https://i.scdn.co/image/ab6761610000e5ebc215ef9c2319e27134fc5168 640 640 https://i.scdn.co/image/ab67616100005174c215ef9c2319e27134fc5168 320 320 https://i.scdn.co/image/ab6761610000f178c215ef9c2319e27134fc5168 160 160"
+}

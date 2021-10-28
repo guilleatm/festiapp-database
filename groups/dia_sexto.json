@@ -1,0 +1,13 @@
+{
+"id": "dia_sexto",
+"name": "D\u00eda Sexto",
+"type": "artist",
+"followers": 26913,
+"popularity": 41,
+"genres": "rap_galego",
+"sid": "6ClUcM4dNXay3rFb4hSMbg",
+"uri": "spotify:artist:6ClUcM4dNXay3rFb4hSMbg",
+"external_urls": "https://open.spotify.com/artist/6ClUcM4dNXay3rFb4hSMbg",
+"href": "https://api.spotify.com/v1/artists/6ClUcM4dNXay3rFb4hSMbg",
+"images": "https://i.scdn.co/image/ab6761610000e5ebaf9c8803a29b7deda1f9c1d3 640 640 https://i.scdn.co/image/ab67616100005174af9c8803a29b7deda1f9c1d3 320 320 https://i.scdn.co/image/ab6761610000f178af9c8803a29b7deda1f9c1d3 160 160"
+}

@@ -1,0 +1,13 @@
+{
+"id": "sons_of_aguirre",
+"name": "Sons of Aguirre",
+"type": "artist",
+"followers": 37750,
+"popularity": 42,
+"genres": "rap_metal_espanol",
+"sid": "6yAMRosx47X5w8mgH5qymJ",
+"uri": "spotify:artist:6yAMRosx47X5w8mgH5qymJ",
+"external_urls": "https://open.spotify.com/artist/6yAMRosx47X5w8mgH5qymJ",
+"href": "https://api.spotify.com/v1/artists/6yAMRosx47X5w8mgH5qymJ",
+"images": "https://i.scdn.co/image/ab6761610000e5ebed0989dad2e1edd9aaaf5aca 640 640 https://i.scdn.co/image/ab67616100005174ed0989dad2e1edd9aaaf5aca 320 320 https://i.scdn.co/image/ab6761610000f178ed0989dad2e1edd9aaaf5aca 160 160"
+}

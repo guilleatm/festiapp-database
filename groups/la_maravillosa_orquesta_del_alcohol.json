@@ -1,0 +1,13 @@
+{
+"id": "la_maravillosa_orquesta_del_alcohol",
+"name": "La Maravillosa Orquesta del Alcohol",
+"type": "artist",
+"followers": 172405,
+"popularity": 59,
+"genres": "spanish_pop",
+"sid": "1vBn5Puz4mdZopZEHq1QDq",
+"uri": "spotify:artist:1vBn5Puz4mdZopZEHq1QDq",
+"external_urls": "https://open.spotify.com/artist/1vBn5Puz4mdZopZEHq1QDq",
+"href": "https://api.spotify.com/v1/artists/1vBn5Puz4mdZopZEHq1QDq",
+"images": "https://i.scdn.co/image/ab6761610000e5ebeb5c25dae6e1027f7c687578 640 640 https://i.scdn.co/image/ab67616100005174eb5c25dae6e1027f7c687578 320 320 https://i.scdn.co/image/ab6761610000f178eb5c25dae6e1027f7c687578 160 160"
+}
