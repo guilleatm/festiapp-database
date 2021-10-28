@@ -1,0 +1,13 @@
+{
+"id": "sharif",
+"name": "Sharif",
+"type": "artist",
+"followers": 163983,
+"popularity": 61,
+"genres": "mexican_hip_hop spanish_hip_hop",
+"sid": "5pIapcAHb6WV4fUjfQchMf",
+"uri": "spotify:artist:5pIapcAHb6WV4fUjfQchMf",
+"external_urls": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf",
+"href": "https://api.spotify.com/v1/artists/5pIapcAHb6WV4fUjfQchMf",
+"images": "https://i.scdn.co/image/ab6761610000e5eb25cf50df32a4463ca3948c2c 640 640 https://i.scdn.co/image/ab6761610000517425cf50df32a4463ca3948c2c 320 320 https://i.scdn.co/image/ab6761610000f17825cf50df32a4463ca3948c2c 160 160"
+}

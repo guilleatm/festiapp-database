@@ -1,0 +1,13 @@
+{
+"id": "itaca_band",
+"name": "Itaca Band",
+"type": "artist",
+"followers": 36252,
+"popularity": 43,
+"genres": "musica_catalana reggae_catala ska_catala",
+"sid": "1tQtaouRCs37gaJVi7HTYR",
+"uri": "spotify:artist:1tQtaouRCs37gaJVi7HTYR",
+"external_urls": "https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR",
+"href": "https://api.spotify.com/v1/artists/1tQtaouRCs37gaJVi7HTYR",
+"images": "https://i.scdn.co/image/ab6761610000e5ebcfcfca3926d765329cacdb24 640 640 https://i.scdn.co/image/ab67616100005174cfcfca3926d765329cacdb24 320 320 https://i.scdn.co/image/ab6761610000f178cfcfca3926d765329cacdb24 160 160"
+}

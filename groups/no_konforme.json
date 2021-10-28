@@ -1,0 +1,13 @@
+{
+"id": "no_konforme",
+"name": "No Konforme",
+"type": "artist",
+"followers": 7128,
+"popularity": 32,
+"genres": "punk_urbano spanish_punk",
+"sid": "26yvJIyoBOe4vGLB2tlwub",
+"uri": "spotify:artist:26yvJIyoBOe4vGLB2tlwub",
+"external_urls": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub",
+"href": "https://api.spotify.com/v1/artists/26yvJIyoBOe4vGLB2tlwub",
+"images": "https://i.scdn.co/image/ab6761610000e5ebfeae44dcf7f81d7285bbd965 640 640 https://i.scdn.co/image/ab67616100005174feae44dcf7f81d7285bbd965 320 320 https://i.scdn.co/image/ab6761610000f178feae44dcf7f81d7285bbd965 160 160"
+}

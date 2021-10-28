@@ -1,0 +1,13 @@
+{
+"id": "aspart",
+"name": "Aspart",
+"type": "artist",
+"followers": 153,
+"popularity": 3,
+"genres": "",
+"sid": "0v7BlUYptl3iT3kEBFdbI3",
+"uri": "spotify:artist:0v7BlUYptl3iT3kEBFdbI3",
+"external_urls": "https://open.spotify.com/artist/0v7BlUYptl3iT3kEBFdbI3",
+"href": "https://api.spotify.com/v1/artists/0v7BlUYptl3iT3kEBFdbI3",
+"images": "https://i.scdn.co/image/ab6761610000e5ebb842a55598131b8bc784ed0c 640 640 https://i.scdn.co/image/ab67616100005174b842a55598131b8bc784ed0c 320 320 https://i.scdn.co/image/ab6761610000f178b842a55598131b8bc784ed0c 160 160"
+}

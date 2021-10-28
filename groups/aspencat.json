@@ -1,0 +1,13 @@
+{
+"id": "aspencat",
+"name": "Aspencat",
+"type": "artist",
+"followers": 51922,
+"popularity": 45,
+"genres": "indie_valenciana musica_catalana rap_catala reggae_catala ska_catala ska_espanol",
+"sid": "2cvEw5LbWVI1CspbDOgmcQ",
+"uri": "spotify:artist:2cvEw5LbWVI1CspbDOgmcQ",
+"external_urls": "https://open.spotify.com/artist/2cvEw5LbWVI1CspbDOgmcQ",
+"href": "https://api.spotify.com/v1/artists/2cvEw5LbWVI1CspbDOgmcQ",
+"images": "https://i.scdn.co/image/ab67616d0000b2738075c87b54db6b2a24511172 640 640 https://i.scdn.co/image/ab67616d00001e028075c87b54db6b2a24511172 300 300 https://i.scdn.co/image/ab67616d000048518075c87b54db6b2a24511172 64 64"
+}

@@ -1,0 +1,13 @@
+{
+"id": "at_versaris",
+"name": "At Versaris",
+"type": "artist",
+"followers": 7088,
+"popularity": 27,
+"genres": "cantautor indie_catala musica_catalana rap_catala rock_catala",
+"sid": "6HPAGt94jKHGMQmT8IYNPN",
+"uri": "spotify:artist:6HPAGt94jKHGMQmT8IYNPN",
+"external_urls": "https://open.spotify.com/artist/6HPAGt94jKHGMQmT8IYNPN",
+"href": "https://api.spotify.com/v1/artists/6HPAGt94jKHGMQmT8IYNPN",
+"images": "https://i.scdn.co/image/ab6761610000e5eb839e0972583ff5bf22a0ab19 640 640 https://i.scdn.co/image/ab67616100005174839e0972583ff5bf22a0ab19 320 320 https://i.scdn.co/image/ab6761610000f178839e0972583ff5bf22a0ab19 160 160"
+}

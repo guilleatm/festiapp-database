@@ -1,0 +1,13 @@
+{
+"id": "frida",
+"name": "Frida",
+"type": "artist",
+"followers": 989,
+"popularity": 7,
+"genres": "rap_catala",
+"sid": "5WrFF7JJ5hPqQXX4O599RF",
+"uri": "spotify:artist:5WrFF7JJ5hPqQXX4O599RF",
+"external_urls": "https://open.spotify.com/artist/5WrFF7JJ5hPqQXX4O599RF",
+"href": "https://api.spotify.com/v1/artists/5WrFF7JJ5hPqQXX4O599RF",
+"images": "https://i.scdn.co/image/ab6761610000e5ebe3bc79959d84bc287bcc5113 640 640 https://i.scdn.co/image/ab67616100005174e3bc79959d84bc287bcc5113 320 320 https://i.scdn.co/image/ab6761610000f178e3bc79959d84bc287bcc5113 160 160"
+}

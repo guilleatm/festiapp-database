@@ -1,0 +1,13 @@
+{
+"id": "carrona",
+"name": "Carro\u00f1a",
+"type": "artist",
+"followers": 4783,
+"popularity": 31,
+"genres": "punk_urbano spanish_punk",
+"sid": "7d5zlC95WTo4JJFWNKsiP1",
+"uri": "spotify:artist:7d5zlC95WTo4JJFWNKsiP1",
+"external_urls": "https://open.spotify.com/artist/7d5zlC95WTo4JJFWNKsiP1",
+"href": "https://api.spotify.com/v1/artists/7d5zlC95WTo4JJFWNKsiP1",
+"images": "https://i.scdn.co/image/ab6761610000e5eba15e1e957154952b8776a2c0 640 640 https://i.scdn.co/image/ab67616100005174a15e1e957154952b8776a2c0 320 320 https://i.scdn.co/image/ab6761610000f178a15e1e957154952b8776a2c0 160 160"
+}
